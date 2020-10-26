@@ -1,0 +1,22 @@
+.navbar {
+  padding 1rem;
+  background-color: turquoise;
+}
+
+.footer {
+  padding 1rem;
+}
+
+.btn-primary:hover {
+  background-color: turquoise;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("pawel-czerwinski-A3DyYLGO0kQ-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
